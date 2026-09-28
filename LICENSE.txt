@@ -1,0 +1,2 @@
+Educational project created for Spark MLlib practical work.
+The included customer dataset is synthetically generated for demonstration.
